@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SongsDB</string>
+    <string name="menu_plus_item">Add Song</string>
+    <string name="browse_item_menu">Browse</string>
+    <string name="song_details_title">Enter title of song</string>
+    <string name="song_details_duration">Enter duration of song</string>
+    <string name="song_details_year">Enter year of song</string>
+    <string name="song_details_artistname">Artist name</string>
+    <string name="song_details_add_artist">Add</string>
+    <string name="hashtag_hint">Add HashTag</string>
+    <string name="artist_hint">Add Artist</string>
+    <string name="insertbtn">Insert</string>
+    <string name="song_duration_formate_mmss" formatted="false">%d:%02d</string>
+    <string name="song_duration_formate_hhmmss" formatted="false">%02d:%02d:%02d</string>
+    <string name="duration">duration</string>
+    <string name="title">Title</string>
+    <string name="search_hint">Search by name,hashtag,artist</string>
+    <string name="delete_song">Delete</string>
+    <string name="songdetails">Add Song</string>
+</resources>

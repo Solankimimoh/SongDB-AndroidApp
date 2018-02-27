@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7acfd6</color>
+    <color name="colorPrimaryDark">#559095</color>
+    <color name="colorAccent">#7acfd6</color>
+    <color name="colorTagEditTagbg">#4f4a4a</color>
+    <color name="ripplefloating">#9fd7db</color>
+    <color name="text_white_color">#ffffff</color>
+</resources>
